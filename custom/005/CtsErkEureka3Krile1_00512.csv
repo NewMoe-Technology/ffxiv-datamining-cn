@@ -128,7 +128,7 @@ int32,str,str
 看来文理融合器改良成功了啊。"
 50,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_121","我这边也让你久等了，
 我终于确定魔素石的位置了。"
-51,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_123","接来下这个魔素石好像在耐热实验场。
+51,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_123","接下来这个魔素石好像在耐热实验场。
 不好意思，老是让你东奔西跑的，
 但还是麻烦你再去回收一下。"
 52,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_130","魔素石的反应出现在耐热实验场。
@@ -249,7 +249,7 @@ int32,str,str
 98,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_516","原型以太之光停止了运转……
 到底是怎么回事？"
 99,"TEXT_CTSERKEUREKA3KRILE1_00512_EJIKATSUNJIKA_000_517","(-？？？？-)你们来了啊……
-来的够快的啊。"
+来得够快的啊。"
 100,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_518","艾吉卡……
 这到底是什么情况？"
 101,"TEXT_CTSERKEUREKA3KRILE1_00512_EJIKATSUNJIKA_000_519","看了还不明白吗，蠢货。
@@ -296,7 +296,7 @@ int32,str,str
 118,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_536","他……变成信徒了吗……"
 119,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_537","艾吉卡是不可能主动去解放创神的啊。
 而且还说什么主人……"
-120,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_538","啊啊，真是最糟糕的状况，弄得我晕头转向。
+120,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_538","啊，真是最糟糕的状况，弄得我晕头转向。
 好不容易才看见了希望……
 我到底该怎么办才好啊……爷爷……"
 121,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_550","……哎，太累了。
@@ -400,18 +400,18 @@ int32,str,str
 但你就给我等着瞧吧，艾吉卡·岑吉卡！"
 161,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_665","已完成“禁地优雷卡 涌火之地”的剧情！
 请期待下一个版本来临！"
-162,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_100_665","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”的剧情！"
+162,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_100_665","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”的剧情！"
 163,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_150_665","和黄金港的罗德尼对话，
-可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”任务。"
+可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”任务。"
 164,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_666","在涌火地带能够骑乘坐骑了！"
 165,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_670","封印术的修复工作进展得很顺利。
 我一定会给你带来好消息的。
 请你再稍等一段时间吧。"
 166,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_671","已完成“禁地优雷卡 涌火之地”的剧情！
 请期待下一个版本来临！"
-167,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_680","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”的剧情！"
+167,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_680","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”的剧情！"
 168,"TEXT_CTSERKEUREKA3KRILE1_00512_SYSTEM_000_681","和黄金港的罗德尼对话，
-可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”任务。"
+可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”任务。"
 169,"TEXT_CTSERKEUREKA3KRILE1_00512_TALK_ACTOR",""
 170,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_600",""
 171,"TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_601",""

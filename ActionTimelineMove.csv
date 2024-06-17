@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5
 #,,,,,,
-int32,byte,byte,byte,byte,byte,bit&01
+int32,byte,byte,byte,byte,uint16,bit&01
 0,0,0,0,0,0,False
 1,1,0,1,0,0,False
 2,2,5,1,0,0,False
@@ -66,3 +66,18 @@ int32,byte,byte,byte,byte,byte,bit&01
 62,4,18,1,1,90,False
 63,5,18,1,2,90,False
 64,7,0,1,0,0,False
+65,0,0,1,2,270,False
+66,1,0,2,1,180,False
+67,3,160,2,0,0,False
+68,1,0,2,0,0,False
+69,8,0,2,0,0,False
+70,0,0,2,2,90,False
+71,0,0,2,2,180,False
+72,0,0,2,1,90,False
+73,2,25,1,0,0,True
+74,2,40,1,0,0,True
+75,3,15,1,1,180,False
+76,4,15,1,1,90,False
+77,5,15,1,1,270,False
+78,1,0,2,2,150,False
+79,1,0,2,1,150,False

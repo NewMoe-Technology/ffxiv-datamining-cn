@@ -33,7 +33,7 @@ int32,str,str
 25,"TEXT_BANNAM004_03100_TODO_01","和玛格奈对话"
 26,"TEXT_BANNAM004_03100_TODO_02","和纱都对话"
 27,"TEXT_BANNAM004_03100_TODO_03","向鱼丽报告"
-28,"TEXT_BANNAM004_03100_TODO_04","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南边的石场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南边的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在朵塔儿水洲钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+28,"TEXT_BANNAM004_03100_TODO_04","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南边的石场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南边的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在朵塔儿水洲钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给鱼信</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
 29,"TEXT_BANNAM004_03100_TODO_05","和鱼丽对话"
 30,"TEXT_BANNAM004_03100_TODO_06","和鱼信对话"
 31,"TEXT_BANNAM004_03100_TODO_07",""
@@ -106,7 +106,7 @@ int32,str,str
 和孩子们驾驭快马时所运用的技巧，
 还要感谢大地为我们带来的恩惠……这就是我们模儿部的祭礼。"
 74,"TEXT_BANNAM004_03100_GYOSHIN_000_035","居然是赛马啊，真是超乎俺想象的祭礼噗。
-总之，能到听到你的讲解真是太好了噗。
+总之，能够听到你的讲解真是太好了噗。
 谢谢你噗！"
 75,"TEXT_BANNAM004_03100_GYOSHIN_000_036","接下来，<If(PlayerParameter(4))>小姐<Else/>小哥</If>，咱们去奥罗尼部那里打听打听吧。
 俺就先过去了，麻烦你待会给俺介绍一下奥罗尼部的熟人噗。"
@@ -127,7 +127,7 @@ int32,str,str
 但是这种似鱼非鱼的东西，估计没法效仿我们吧。"
 83,"TEXT_BANNAM004_03100_GYOSHIN_000_055","你这种很没礼貌的言行……
 肯定没女人缘，俺劝你再别这样哦噗？
-总之，能到听到你的讲解真是太好了噗。谢谢你噗！"
+总之，能够听到你的讲解真是太好了噗。谢谢你噗！"
 84,"TEXT_BANNAM004_03100_GYOSHIN_000_056","接下来，<If(PlayerParameter(4))>小姐<Else/>小哥</If>咱们去朵塔儿水洲那里打听打听吧。
 俺就先过去了，麻烦你待会给俺介绍一下朵塔儿水洲的熟人噗。"
 85,"TEXT_BANNAM004_03100_MAGNAI_100_060","……言行……我言行有问题……是吗？"
@@ -149,7 +149,7 @@ int32,str,str
 92,"TEXT_BANNAM004_03100_SADU_000_074","虽说是祭礼，但一半是纯粹为了娱乐。
 祭礼期间大家都要来比比看谁能更多地射中距离很远的靶子。"
 93,"TEXT_BANNAM004_03100_GYOSHIN_000_075","怎么感觉与其说是祭礼，还不如说更像是竞技呢噗。
-总之，能到听到你的讲解真是太好了噗。
+总之，能够听到你的讲解真是太好了噗。
 谢谢你噗！"
 94,"TEXT_BANNAM004_03100_GYOSHIN_000_076","那<If(PlayerParameter(4))>小姐<Else/>小哥</If>咱们就先打听到这里，该回朵洛衣楼了噗。
 俺得参考收集到的情报，准备新的祭礼内容了噗！"
@@ -244,7 +244,7 @@ int32,str,str
 138,"TEXT_BANNAM004_03100_GYOREI_000_140","对于鱼信来说，
 这也是让他反省自己冒失坏习惯的一个好机会噗。"
 139,"TEXT_BANNAM004_03100_GYOREI_000_141","来吧，<Highlight>ObjectParameter(1)</Highlight>。
-弓和箭都已经准备好了，你就拿起它们就朝着鱼信拿着的那个靶子，
+弓和箭都已经准备好了，你就拿起它们朝着鱼信拿着的那个靶子，
 射出漂亮的一箭吧噗！"
 140,"TEXT_BANNAM004_03100_SYSTEM_000_142","开始使用弓箭瞄准射击。
 如果发现了大祭的靶子，在瞄准后
@@ -273,11 +273,11 @@ int32,str,str
 151,"TEXT_BANNAM004_03100_SYSTEM_000_166","与鲶鱼精族“大鲶大祭执行委员会”之间的关系程度到达了“名誉”。
 冒险者通过协助他们举办游牧民族风的祭礼，获得了名誉！"
 152,"TEXT_BANNAM004_03100_SYSTEM_000_167","今后可以在朵洛衣楼的光风院霁月处，
-接受新的蛮族日常任务。"
+接受新的友好部族日常任务。"
 153,"TEXT_BANNAM004_03100_SYSTEM_000_168","同时，作为奖励，
 友好关系等级提升的当天，
-可从光风院霁月处接受的蛮族日常任务数量追加3个。"
-154,"TEXT_BANNAM004_03100_SYSTEM_000_169","领取完所有友好关系等级提升前发行的蛮族日常任务后，
+可从光风院霁月处接受的友好部族日常任务数量追加3个。"
+154,"TEXT_BANNAM004_03100_SYSTEM_000_169","领取完所有友好关系等级提升前发行的友好部族日常任务后，
 将会发行作为奖励的追加任务。
 受理限额未达到上限即可接受追加任务。"
 155,"TEXT_BANNAM004_03100_SYSTEM_000_170","并且可以在“鱼商”处购入要求“关系程度：名誉”的商品。

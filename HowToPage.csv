@@ -264,23 +264,10 @@ int32,byte,byte,Image,byte,str,str,str
 92,0,0,0,0,"","",""
 93,0,0,0,0,"","",""
 94,0,0,0,0,"","",""
-95,1,0,150411,0,"
-在技能菜单中有一个分类叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。在这个分类中可以查看当前其他大地使者或能工巧匠职业已经学会的技能中，有哪些是现在的职业可以使用的。
-
-通过快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分类中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮可以打开技能菜单窗口。","",""
-96,1,0,150412,0,"
-额外技能的装备数量受到角色当前职业等级的限制。随着等级的提升，可装备数量也会增加。
-
-一开始只能够装备一个，10级之后每<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提升5级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会增加一个，最多可增加到十个。
-
-在菜单中勾选相应的技能之后，该技能便可以作为额外技能设置到热键栏中。","",""
-97,1,0,150413,0,"选中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会在技能菜单的下面显示出来。
-
-将技能对应的图标<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到热键栏上之后就可以随时使用了。","",""
-98,1,0,150414,0,"
-选中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后会进入到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的模式。
-
-此时按下对应的按键可以将技能设置到对应的位置上，与发动技能时的操作基本相同。","",""
+95,0,0,0,0,"","",""
+96,0,0,0,0,"","",""
+97,0,0,0,0,"","",""
+98,0,0,0,0,"","",""
 99,0,0,0,0,"","",""
 100,0,0,0,0,"","",""
 101,0,0,0,0,"","",""
@@ -305,22 +292,26 @@ int32,byte,byte,Image,byte,str,str,str
 职业是根据当前<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>主手<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上的装备决定的。
 
 更换主手装备便可轻松完成<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>转职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
-111,0,0,0,0,"","",""
+111,1,0,150112,0,"学会了新职业之后，请务必记得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存新加的套装<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+使用套装功能，
+即可瞬间更换全身的装备。","",""
 112,0,0,0,0,"","",""
 113,0,0,0,0,"","",""
 114,0,0,0,0,"","",""
-115,1,0,150391,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>套装<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能能够将各种装备的搭配分别保存下来。
+115,1,0,150101,0,"开放了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职业转换系统”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+前往其他职业的行会，与接待员对话后
+即可领取学会新职业
+所需的任务。","",""
+116,1,0,150102,0,"在艾欧泽亚，除了战斗职业之外，
+还有能制作道具的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作职业<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+以及能在地图上收集到各种
+生产素材的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>采集职业<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-转职的时候使用套装功能，可以同时变更全身所有装备。
-
-只要事先将对应的装备准备好，便可以随时随地瞬间更换装备。","",""
-116,1,0,150392,0,"
-设置套装配置可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口中进行。
-
-按下<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>＋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮便可以将当前身上穿戴的装备作为套装保存下来。
-
-利用套装，无论是职业特定的装备还是各种混搭的漂亮装备都可以随时记录下来并瞬间转换完毕。","",""
+请在熟悉了现在
+所使用的职业之后，
+再学习其他的职业，
+进一步探索这个世界吧。","",""
 117,0,0,0,0,"","",""
 118,0,0,0,0,"","",""
 119,0,0,0,0,"","",""
@@ -413,7 +404,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 因此，为了避免出现所持装备过多导致背包的容量紧张的情况发生，每名冒险者都会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“兵装库”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来专门存放各种装备。","",""
 161,1,0,151142,0,"
-从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备品都会直接存放到兵装库中，而不会对背包有丝毫影响。
+从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备都会直接存放到兵装库中，而不会对背包有丝毫影响。
 
 所以当获得新装备想要查看一下详情时，请打开兵装库而不是背包进行查看。","",""
 162,1,0,151143,0,"
@@ -475,7 +466,7 @@ int32,byte,byte,Image,byte,str,str,str
 185,1,0,150902,0,"
 加入小队之后，画面左上会显示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通过列表可以直观地确认队员们的情况。另外也可以方向键的上下来选中队友，这样一来帮助同伴恢复体力时就可以免去很多复杂的操作了。","",""
+通过列表可以直观地确认队员们的情况。另外也可以<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>的上下来选中队友，这样一来帮助同伴恢复体力时就可以免去很多复杂的操作了。","",""
 186,0,0,0,0,"","",""
 187,0,0,0,0,"","",""
 188,0,0,0,0,"","",""
@@ -490,7 +481,7 @@ int32,byte,byte,Image,byte,str,str,str
 在画面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>十字热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以设置各种对战斗有利的相关指令。","",""
 192,1,0,150933,0,"
 设置在十字热键中的技能需要通过组合键来发动。
-按住<Gui(14)/>或<Gui(15)/>键的同时按下四个方向键或<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>可以发动对应位置的技能。
+按住<Gui(14)/>或<Gui(15)/>键的同时按下四个<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>或<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>可以发动对应位置的技能。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※新学会的技能会自动添加到技能栏中。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 193,1,0,150934,0,"
@@ -579,7 +570,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 对濒死的同伴进行治疗，阻止敌人的危险攻击等行为会增加极限槽的积蓄量。","",""
 242,1,0,150973,0,"
-极限技指令在技能菜单的“共通能力”分类下，设置到热键栏及十字热键栏上便可随时使用。
+极限技指令在技能菜单的“共通技能”分类下，设置到热键栏及十字热键栏上便可随时使用。
 
 技能共有四种效果，分别是：单体攻击、范围攻击、防御、治疗。具体发动哪种类型的技能则由发动者的职业决定。","",""
 243,1,0,150974,0,"
@@ -614,13 +605,16 @@ int32,byte,byte,Image,byte,str,str,str
 260,1,0,150991,0,"
 获得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>灵魂水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
-灵魂水晶是能够开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。每个特职所对应的灵魂水晶均不相同，进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职转换<UIGlow>01</UIGlow><UIForeground>01</UIForeground>只能转为对应的特职。","",""
+灵魂水晶是能够开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。
+装备对应不同职业的不同武器和灵魂水晶之后，即可进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职转换<UIGlow>01</UIGlow><UIForeground>01</UIForeground>转为对应的特职。","",""
 261,1,0,150992,0,"
 转为特职后，除了可以使用职业状态时的技能之外，还可以学习和使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 262,1,0,150993,0,"
-特职状态下，等级、经验值均和其基础职业共通。
+如果该特职有对应的基础职业，
+那么特职的等级、经验值均和其基础职业共通。
 
-职业状态下升级时，特职的等级也会随之提高，反过来，特职状态下升级时也是同样的效果。","",""
+没有对应基础职业的特职，
+玩家也可以从特定的等级开始游玩。","",""
 263,0,0,0,0,"","",""
 264,0,0,0,0,"","",""
 265,0,0,0,0,"","",""
@@ -1190,6 +1184,8 @@ int32,byte,byte,Image,byte,str,str,str
 　·在指定地区的所有采集点进行采集。
 　·采集指定数量的目标道具。","",""
 591,1,0,150702,0,"
+按照要求的等级采集目标道具后
+可以获得高评价，随着评价提高会获得额外报酬。
 任务指定的采集地点会在名牌上显示出理符任务的图标。
 
 在导向地图中也会显示出目的地的方向。","",""
@@ -1611,7 +1607,11 @@ int32,byte,byte,Image,byte,str,str,str
 呼唤出雇员之后，可以将自己背包里的道具及金币寄存在雇员身上。寄存的道具还可以拿到市场出售。
 同时还可以向雇员下达探险的委托。","",""
 861,1,0,150532,0,"
-将道具从自己的物品栏中移动到雇员的物品栏中，便可以将物品交给雇员寄存。","",""
+将道具从自己的物品栏中移动到雇员的物品栏中，便可以将物品交给雇员寄存。
+
+选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>同类道具合并递交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
+将从玩家背包中搜索已经寄存在雇员处且能够叠加的道具，
+一并交给雇员进行保管。","",""
 862,0,0,0,0,"","",""
 863,0,0,0,0,"","",""
 864,0,0,0,0,"","",""
@@ -2299,7 +2299,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 通过特殊热键栏中的指令可以对召唤兽下达各种命令。","",""
 1242,1,0,151433,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会立刻进入战斗状态。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会自动做出行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等待指示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会令召唤兽在召唤者手动下达具体命令之前不会采取任何行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>则会收回已经召唤出的召唤兽。","",""
 1243,0,0,0,0,"","",""
@@ -2362,7 +2362,7 @@ int32,byte,byte,Image,byte,str,str,str
 1273,1,0,151502,0,"
 另外，在右侧的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“目的列表”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中也可以使用任务道具。
 
-在选中敌人的状态下，通过<CommandIcon(19)/>切换到目的列表上，再用方向键选中边上的道具图标，按下<CommandIcon(8)/>键，便可以很快速地使用了。","",""
+在选中敌人的状态下，通过<CommandIcon(19)/>切换到目的列表上，再用<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>选中边上的道具图标，按下<CommandIcon(8)/>键，便可以很快速地使用了。","",""
 1274,0,0,0,0,"","",""
 1275,0,0,0,0,"","",""
 1276,0,0,0,0,"","",""
@@ -2392,7 +2392,7 @@ int32,byte,byte,Image,byte,str,str,str
 移动鼠标将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再点击左键即可达到目的。","",""
 1291,1,0,151472,0,"这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
 
-通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用方向键选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
+通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
 
 之后再将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再按下<CommandIcon(8)/>键即可达到目的。","",""
 1292,0,0,0,0,"","",""
@@ -2646,15 +2646,15 @@ int32,byte,byte,Image,byte,str,str,str
 1438,0,0,0,0,"","",""
 1439,0,0,0,0,"","",""
 1440,1,0,151641,0,"
-蛮族任务是指从生活在各地的蛮族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与蛮族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+友好部族任务是指从生活在各地的友好部族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与友好部族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 关系变得亲密之后会提高相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好关系等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1441,1,0,151642,0,"
-每天能够接受12个蛮族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
+每天能够接受12个友好部族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
 1442,1,0,151643,0,"
-与各个蛮族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
+与各个友好部族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
 
-友好关系等级越高，对蛮族的生活和习性也会了解得更多。","",""
+友好关系等级越高，对友好部族的生活和习性也会了解得更多。","",""
 1443,0,0,0,0,"","",""
 1444,0,0,0,0,"","",""
 1445,0,0,0,0,"","",""
@@ -2663,11 +2663,11 @@ int32,byte,byte,Image,byte,str,str,str
 1448,0,0,0,0,"","",""
 1449,0,0,0,0,"","",""
 1450,1,0,151651,0,"
-完成蛮族任务可以提高发行任务的蛮族的友好度。
+完成友好部族任务可以提高发行任务的友好部族的友好度。
 
-友好度提升到一定程度之后会提升蛮族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
+友好度提升到一定程度之后会提升友好部族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
 1451,1,0,151652,0,"
-提升蛮族的友好关系等级之后可以在蛮族的专用商店购买一些蛮族相关的道具。","",""
+提升友好部族的友好关系等级之后可以在友好部族的专用商店购买一些友好部族相关的道具。","",""
 1452,1,0,151653,0,"
 友好关系等级越高，能够购买的道具种类也会越多。尽量提升等级去购买特殊的道具吧！","",""
 1453,0,0,0,0,"","",""
@@ -2855,13 +2855,13 @@ int32,byte,byte,Image,byte,str,str,str
 1560,1,0,151761,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能开放了！
 
-在装备品的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备品的外型完全变成另一种形象。","",""
+在装备的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备的外型完全变成另一种形象。","",""
 1561,1,0,151762,0,"
 在进行投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※用于投影的装备必须与被投影装备的等级、职业、种族、性别相匹配。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1562,1,0,151763,0,"
-变幻外型之后的装备品无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+变幻外型之后的装备无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 通过武具投影功能，可以随时将喜欢的装备保留在自己身上，随时随地都能够保持最好的容姿！","",""
 1563,0,0,0,0,"","",""
@@ -2925,7 +2925,7 @@ int32,byte,byte,Image,byte,str,str,str
 1601,1,0,151802,0,"
 对雇员委托工作时，需要向他们支付相应的“探险币”。
 
-探险币可以利用军票从所属军队交换，也可以在执行理符任务或蛮族任务时获得。","",""
+探险币可以利用军票从所属军队交换，也可以在执行理符任务或友好部族任务时获得。","",""
 1602,1,0,151803,0,"
 另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。
 
@@ -3017,7 +3017,7 @@ int32,byte,byte,Image,byte,str,str,str
 1660,1,0,151861,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“«黄道文书»”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记载了强化<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“上古武器·魂晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>所需要进行的试炼，一共有9卷，是非常古老的文书。
 
-在装备“上古武器·魂晶”的状态下与丧灵钟的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>古·茱萨奈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对话，可以用亚拉戈神典石交换一本«黄道文书»。","",""
+在装备“上古武器·魂晶”的状态下与丧灵钟的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>古·茱萨娜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对话，可以用亚拉戈神典石交换一本«黄道文书»。","",""
 1661,1,0,151862,0,"
 古文书在到手之后会变成<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，可以随时查看需要讨伐的目标。
 
@@ -3072,7 +3072,7 @@ int32,byte,byte,Image,byte,str,str,str
 1688,0,0,0,0,"","",""
 1689,0,0,0,0,"","",""
 1690,1,0,151881,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备品的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
 1691,1,0,151882,0,"
 在进行修理时，只要对应的修理职业满足等级条件，即使不更换职业也能够同时修理多种装备。
 
@@ -3164,7 +3164,7 @@ int32,byte,byte,Image,byte,str,str,str
 1748,0,0,0,0,"","",""
 1749,0,0,0,0,"","",""
 1750,1,0,151951,0,"
-现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备品等道具分解成各种各样的素材了。
+现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备等道具分解成各种各样的素材了。
 
 要使用这项技能首先需要将道具对应的职业升到30级以上，之后便可以在次级指令中选择“道具分解”这项指令。","",""
 1751,1,0,151952,0,"
@@ -3234,7 +3234,7 @@ int32,byte,byte,Image,byte,str,str,str
 1778,0,0,0,0,"","",""
 1779,0,0,0,0,"","",""
 1780,1,0,151971,0,"
-只有在能工巧匠职业下才能够接受及完成鸟人族的蛮族任务。
+只有在能工巧匠职业下才能够接受及完成鸟人族的友好部族任务。
 
 在任务中需要装备“长风护手”，并在特定的状态下才能够进行制作。","",""
 1781,1,0,151972,0,"
@@ -3248,7 +3248,7 @@ int32,byte,byte,Image,byte,str,str,str
 1791,1,0,151982,0,"
 交纳任何物品都可以满足任务的要求，左侧的图标表示交纳物品时会获得经验值的职业，针对自己的需要交纳相应职业的物品，也是提升等级的一种好方法。","",""
 1792,1,0,151983,0,"
-与其他蛮族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
+与其他友好部族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
 
 另外，供应任务所指定的物品会在每天的<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品，一定要注意。","",""
 1800,1,0,151991,0,"
@@ -4356,8 +4356,72 @@ int32,byte,byte,Image,byte,str,str,str
 2563,0,0,0,0,"","",""
 2564,0,0,0,0,"","",""
 2565,0,0,0,0,"","",""
-2566,0,0,0,0,"","",""
-2567,0,0,0,0,"","",""
-2568,0,0,0,0,"","",""
-2569,0,0,0,0,"","",""
-2570,0,0,0,0,"","",""
+2566,1,0,152921,0,"
+部分配方中的道具需要满足一定的品质才可以完成制作。
+否则即便是进展到最后也有可能失败。
+
+可以从制作笔记中确认完成制作所需的品质。
+活用“加工”等技能努力提高品质完成制作吧！","",""
+2567,1,0,152931,0,"
+收藏品当中存在具有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“不定性”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>性质的物品。
+
+具有不定性性质的收藏品在收藏价值达到最大值的状态下
+通过精选可以有一定几率获得稀有的道具。","",""
+2568,1,0,152932,0,"
+此外在收藏价值达到最大值的状态下，
+采集具有不定性性质的收藏品时
+有可能会引发<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>升华<UIGlow>01</UIGlow><UIForeground>01</UIForeground>现象。
+
+对升华后的收藏品进行精选后
+必定会获得稀有道具。","",""
+2569,1,0,152933,0,"
+收藏品升华的几率与玩家的获得力有关，
+获得力越高升华的几率也会随之提升。
+
+努力提升获得力，
+通过升华具有不定性性质的收藏品
+获取稀有的道具吧！","",""
+2570,1,0,152941,0,"
+习得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“大地使者职能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+
+大地使者职能技能是可以帮助大地使者
+寻找并发现采集地点的技能。","",""
+2571,1,0,152942,0,"
+习得大地使者职能技能，
+需要玩家提升大地使者职业的等级、
+完成特定的任务。
+
+习得后，不论哪种大地使者职业均可使用，
+还可以发现当前大地使者职业以外的采集地点。","",""
+2572,1,0,152943,0,"
+可以从快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+使用大地使者职能技能。
+
+技能菜单中有一项是职能技能，
+可以在此确认习得的技能。
+
+将想要使用的技能添加到热键栏，
+出发去寻找采集地点吧！","",""
+2573,1,0,152454,0,"要想改变召唤兽的外貌，
+需要完成对应任务。
+召唤师需要完成任务“召唤兽变形”
+学者需要完成任务“小仙女变形”
+完成各自特职对应的任务后，
+即可使用任务对应的召唤兽外貌。","",""
+2574,0,0,0,0,"","",""
+2575,0,0,0,0,"","",""
+2576,0,0,0,0,"","",""
+2577,0,0,0,0,"","",""
+2578,0,0,0,0,"","",""
+2579,0,0,0,0,"","",""
+2580,0,0,0,0,"","",""
+2581,0,0,0,0,"","",""
+2582,0,0,0,0,"","",""
+2583,0,0,0,0,"","",""
+2584,0,0,0,0,"","",""
+2585,0,0,0,0,"","",""
+2586,0,0,0,0,"","",""
+2587,0,0,0,0,"","",""
+2588,0,0,0,0,"","",""
+2589,0,0,0,0,"","",""
+2590,0,0,0,0,"","",""
